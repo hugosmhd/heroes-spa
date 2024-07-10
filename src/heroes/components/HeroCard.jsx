@@ -28,7 +28,7 @@ export const HeroCard = ({
             <div className="card">
                 <div className="row no-gutters">
                     <div className="col-4">
-                        {/* <img src={heroImageUrl} alt={superhero} className="card-img" /> */}
+                        <img src={heroImageUrl} alt={superhero} className="card-img" />
                     </div>
 
                     <div className="col-8">
